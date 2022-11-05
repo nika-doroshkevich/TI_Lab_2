@@ -2,7 +2,7 @@
 
 :mortar_board: I did this lab in the second year of university in the fourth semester.
 
-:computer: This program was written using Visual Studio 2019, .NET Core 3.1,  __C#__.
+:computer: This program was written using Visual Studio 2019, Windows Forms (for GUI), .NET Core 3.1, __C#__.
 
 ### What did I do in this lab :question:
 
